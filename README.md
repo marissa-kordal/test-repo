@@ -8,3 +8,5 @@ I am making edits to this README file using markdown
 ### making more edits 
 
 ***hello*** <- three stars italicizes and makes bold
+Here is some new text I am adding from the shell to update the README file.
+hello, hellooo, helloooo
